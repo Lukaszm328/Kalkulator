@@ -1,2 +1,5 @@
 # Kalkulator
-Kalkulator dla nie widomych.
+Kalkulator dla osób niewidomych.
+
+
+[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)]
