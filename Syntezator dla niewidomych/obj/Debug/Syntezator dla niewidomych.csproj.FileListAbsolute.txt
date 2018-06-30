@@ -1,0 +1,23 @@
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\bin\Debug\Syntezator dla niewidomych.exe.config
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csprojResolveAssemblyReference.cache
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator_dla_niewidomych.Form1.resources
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator_dla_niewidomych.Properties.Resources.resources
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csproj.GenerateResource.Cache
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Interop.SpeechLib.dll
+c:\users\lukasz\documents\visual studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csproj.ResolveComReference.cache
+C:\Users\Lukasz\Documents\Visual Studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\bin\Debug\Syntezator dla niewidomych.exe
+C:\Users\Lukasz\Documents\Visual Studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\bin\Debug\Syntezator dla niewidomych.pdb
+C:\Users\Lukasz\Documents\Visual Studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.exe
+C:\Users\Lukasz\Documents\Visual Studio 2015\Projects\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.pdb
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\bin\Debug\Syntezator dla niewidomych.exe.config
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\bin\Debug\Syntezator dla niewidomych.exe
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\bin\Debug\Syntezator dla niewidomych.pdb
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csprojResolveAssemblyReference.cache
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csproj.ResolveComReference.cache
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator_dla_niewidomych.Form1.resources
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator_dla_niewidomych.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csproj.GenerateResource.cache
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.exe
+C:\Users\Lukasz\Desktop\1.0-20180630T180821Z-001\1.0\Syntezator dla niewidomych\Syntezator dla niewidomych\obj\Debug\Syntezator dla niewidomych.pdb
