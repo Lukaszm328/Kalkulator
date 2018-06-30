@@ -1,5 +1,5 @@
 # Kalkulator
 Kalkulator dla osób niewidomych.
 
-
-[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)]
+## Podgląd
+[![Freelancer Preview](https://github.com/Lukaszm328/Kalkulator/blob/master/preview.png?raw=true)]
